@@ -4,6 +4,9 @@ I am a Chengduer, student in *Data Science* and lover of swimming. Currently I a
 
 Find me at my [blog](https://www.michaeltan.org)!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTan9999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **MichaelTan9999/MichaelTan9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
