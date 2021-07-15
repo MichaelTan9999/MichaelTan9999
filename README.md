@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Chengduer, student in *Data Science* and lover of swimming. Currently I am studying at the [CUHKSZ](https://www.cuhk.edu.cn/en).
+
+Find me at my [blog](https://www.michaeltan.org)!
+
 <!--
 **MichaelTan9999/MichaelTan9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
