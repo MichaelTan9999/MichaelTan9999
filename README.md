@@ -2,7 +2,7 @@
 
 I am a Chengduer, student in *Data Science* and lover of swimming. Currently I am studying at the [CUHKSZ](https://www.cuhk.edu.cn/en).
 
-Find me at my [blog](https://www.michaeltan.org)!
+Find me at my [blog](https://www.michaeltan.org)(in Chinese)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTan9999&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
