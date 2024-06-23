@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Chengduer, student in *Data Science* and lover of swimming. Currently I am studying at the [CUHKSZ](https://www.cuhk.edu.cn/en).
+I am a Chengduer, student in *Data Science* and lover of swimming. Currently I am working and living in Shanghai.
 
 Find me at my [blog](https://www.michaeltan.org)(in Chinese)!
 
